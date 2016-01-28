@@ -1,18 +1,15 @@
 ### CV ONE PAGE
 ----------------
 
+
+##### Mission 
+
+~~~
 En utilisant HTML, CSS et Bootstrap, création d'un CV one page en ligne comprenant :
 
-* Nom
+* créer un site one page et lui intégrer un effet Smooth Scroll avec JQuery
 
-* Photo
+* intégrer un portfolio Bootstrap et Jquery
 
-* Coordonnées
-
-* Texte de présentation
-
-* Rubrique "Formations"
-
-* Rubrique "Expériences professionnelles"
-
-* Rubrique au choix (ça peut être un hobbie, une passion, etc)
+* ajout d'un formulaire de contact au CV en ligne
+~~~
